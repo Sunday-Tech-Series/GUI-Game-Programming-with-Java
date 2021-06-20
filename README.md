@@ -9,8 +9,8 @@
 It doesn't matter if you join our webinar a little late or you prefer to do it at your own pace, we have you covered. In this repository, you'll find everything you need.
 
 - Webinar youtube link
-- Slide deck
-<!--- [Slide deck](./Slides.pdf) -->
+- [Installation Guide](./installationGuide.md)
+- [Slide deck](./Slides.pdf)
 - [Whatsapp group chat](http://bit.ly/STS-1-WA)
 - [Polling during session](https://www.menti.com/)
 
